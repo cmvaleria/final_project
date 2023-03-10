@@ -7,7 +7,7 @@ Cristian Valeria
 
 Get access to a credit is never something easy, and Germany is not an exception.  
 Thats why I want to know, given certain parameters, what is the probability to get a credit on Germany and what can I do to improve my chances.
-The idea is to build an interactive app that can predict if you will probably get a credit or not.
+The idea is to build an interactive app (**Kredit Fate app**) that can predict if you will probably get a credit or not.
 
 ## The DataSet:
 
