@@ -2,6 +2,7 @@
 Cristian Valeria
 
 # KREDIT FATE
+![Fate_Kredit_logo_black_white](https://user-images.githubusercontent.com/121165145/224303255-39914648-5f57-4e6f-ad76-16d0bf5e3b29.png)
 
 
 ## The problem:
