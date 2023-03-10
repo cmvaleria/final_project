@@ -1,7 +1,6 @@
 # Final_Project
 Cristian Valeria
 
-# KREDIT FATE
 ![Fate_Kredit_logo_black_white1](https://user-images.githubusercontent.com/121165145/224303680-5f048931-ffb8-41e9-b087-b225650f3903.png)
 
 ## The problem:
