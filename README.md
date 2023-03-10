@@ -15,12 +15,12 @@ The idea is to build an interactive app that can predict if you will probably ge
 The Data Set was build by attribute from Professor Dr. Hans Hofmann’s, and provided by UCI Machine Learning Repository
 It contains 1000 applications. In witch the person obtained or not the credit.
 
-## Modeles:
+## Models Applied:
 
-Logistic Regression 
-K-NN Classifier 
-Random Forest
-Extra Trees Classifier
+- Logistic Regression 
+- K-NN Classifier 
+- Random Forest (Exported to 'Models Directory')
+- Extra Trees Classifier
 
 ## Output:
 
